@@ -1,0 +1,43 @@
+<!DOCTYPE HTML>
+
+<html>
+
+<head>   THE REDS
+  <title>Hillary online  marketing site</title>
+</head>
+<body>
+ <h1>Poultry </h1>
+ <p>Under this I offer different kinds of poultry depending on customers needs .
+As a farmer I ensure that my customers are well serviced according to their needs.
+The following are some of the poultry that me as a farmer have
+<ol>
+    <li>chicken</li>
+    <li>Geese</li>
+    <li>Turkey</li>
+</ol>
+The following are some of the diseases that commonly attack poultry in a farm.
+<ul>
+    <li>newcastle</li>
+    <li>coccidiosis</li>
+</ul> </p>
+ <h2>cattle</h2> <style>
+ p{
+     color :blue ;
+ }
+</style>
+ <p>Concerning this we have different types of cattle that a farmer should keep
+ this include the following:<ol>
+    <li>Dairy cattle </li>
+    <li>Beef cattle</li>
+    </ol>
+    <p>Here the following are some of the services I offer as a trade.</p>
+<ol>
+    <li>treatment of animals </li>
+    <li>offering feeds to customers at a cheaper price</li>
+    <li>providing markert to customers produce</li>
+</ol>
+<h3>Goats</h3>
+They are can easily survive in many environment ,this is due to the fact they feed on both grass and shrubs .
+ </body>
+
+</html>
